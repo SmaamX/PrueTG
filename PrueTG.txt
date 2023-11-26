@@ -16,3 +16,6 @@ web.telegram.org##div.settings-main-menu:nth-of-type(3)
 web.telegram.org##.svg-appendix
 web.telegram.org##.modal-dialog
 web.telegram.org##.modal-backdrop
+web.telegram.org##.avatar-photo
+web.telegram.org##div.sidebar-left-section-container:nth-of-type(4)
+web.telegram.org##.sidebar-left-section-content > div.rp.hover-effect.row-clickable.row-with-padding.row-with-icon.row:nth-of-type(1)
