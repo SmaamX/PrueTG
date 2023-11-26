@@ -6,4 +6,4 @@ web.telegram.org##.thumbnail
 web.telegram.org##.emoji.custom-emoji
 web.telegram.org##.media-preview--image
 web.telegram.org##.pictogram
-
+web.telegram.org##.ContactGreeting
