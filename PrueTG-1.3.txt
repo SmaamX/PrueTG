@@ -7,3 +7,4 @@ web.telegram.org##.emoji.custom-emoji
 web.telegram.org##.media-preview--image
 web.telegram.org##.pictogram
 web.telegram.org##.ContactGreeting
+web.telegram.org##.unread.muted.ChatBadge
