@@ -26,3 +26,7 @@ web.telegram.org##.record.Button
 web.telegram.org##.inner
 web.telegram.org##.Avatar
 ||web.telegram.org/*/*.svg$image
+web.telegram.org##.avatar-stories-svg
+web.telegram.org##.avatar-stories-simple
+web.telegram.org##.avatar-like.avatar
+web.telegram.org##.bubble-content-wrapper > .bubble-content > .service-msg
