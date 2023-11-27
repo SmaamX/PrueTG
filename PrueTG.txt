@@ -23,4 +23,4 @@ web.telegram.org##.symbol-menu-button
 web.telegram.org##.record.Button
 web.telegram.org##.inner
 web.telegram.org##.Avatar
-||web.telegram.org/a/*.svg$image
+||web.telegram.org/*/*.svg$image
