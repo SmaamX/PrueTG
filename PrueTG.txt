@@ -22,3 +22,4 @@ web.telegram.org##.sidebar-left-section-content > div.rp.hover-effect.row-clicka
 web.telegram.org##.media-miniature
 web.telegram.org##.avatar-media
 ||*.web.telegram.org/apiws$websocket,domain=web.telegram.org
+||web.telegram.org/*/img-apple-64/*$image,domain=web.telegram.org
