@@ -21,3 +21,5 @@ web.telegram.org##.with-story-solid
 ||*.web.telegram.org/apiws$websocket,domain=web.telegram.org
 web.telegram.org##.symbol-menu-button
 web.telegram.org##.record.Button
+web.telegram.org##.inner
+web.telegram.org##.Avatar
