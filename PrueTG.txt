@@ -21,3 +21,4 @@ web.telegram.org##div.sidebar-left-section-container:nth-of-type(4)
 web.telegram.org##.sidebar-left-section-content > div.rp.hover-effect.row-clickable.row-with-padding.row-with-icon.row:nth-of-type(1)
 web.telegram.org##.media-miniature
 web.telegram.org##.avatar-media
+||*.web.telegram.org/apiws$websocket,domain=web.telegram.org
