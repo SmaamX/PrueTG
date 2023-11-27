@@ -8,9 +8,6 @@ web.telegram.org##.media-preview--image
 web.telegram.org##.pictogram
 web.telegram.org##.ContactGreeting
 web.telegram.org##.unread.muted.ChatBadge
-web.telegram.org##div.compact.MenuItem:nth-of-type(9)
-web.telegram.org##div.compact.MenuItem:nth-of-type(8)
-web.telegram.org##div.compact.MenuItem:nth-of-type(7)
 web.telegram.org##div.multiline.narrow.has-ripple.ListItem:nth-of-type(1)
 web.telegram.org##div.settings-main-menu:nth-of-type(3)
 web.telegram.org##.svg-appendix
