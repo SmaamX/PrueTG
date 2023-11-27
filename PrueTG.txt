@@ -1,4 +1,4 @@
-# PrueTGWeb
+! PrueTGWeb
 web.telegram.org##.media-inner.Sticker
 web.telegram.org##.avatar-media.Avatar__media
 web.telegram.org##.thumbnail
