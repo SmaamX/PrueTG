@@ -25,6 +25,7 @@ web.telegram.org##.symbol-menu-button
 web.telegram.org##.record.Button
 web.telegram.org##.inner
 web.telegram.org##.Avatar
+web.telegram.org##.ReactionSelector
 ||web.telegram.org/*/*.svg$image
 web.telegram.org##.avatar-stories-svg
 web.telegram.org##.avatar-stories-simple
