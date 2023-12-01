@@ -22,6 +22,7 @@ web.telegram.org##.avatar-media
 ||web.telegram.org/*/img-apple-64/*$image,domain=web.telegram.org
 web.telegram.org##.with-story-solid
 ||*.web.telegram.org/apiws$websocket,domain=web.telegram.org
+web.telegram.org##.AnimatedSticker
 web.telegram.org##.symbol-menu-button
 web.telegram.org##.record.Button
 web.telegram.org##.WebPage
