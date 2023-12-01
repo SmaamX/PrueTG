@@ -32,3 +32,4 @@ web.telegram.org##.avatar-stories-svg
 web.telegram.org##.avatar-stories-simple
 web.telegram.org##.avatar-like.avatar
 web.telegram.org##.bubble-content-wrapper > .bubble-content > .service-msg
+web.telegram.org##.forwarded-message.content-inner > .interactive.media-inner > .full-media
